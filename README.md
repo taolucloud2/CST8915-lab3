@@ -1,4 +1,4 @@
-# CST8915 Lab2: Deploying the Algonquin Pet Store on Azure
+# CST8915 Lab3: Deploying the Algonquin Pet Store on Azure
 
 - **Student Name**: Tao Lu
 - **Student ID**: 41284860
